@@ -5,26 +5,31 @@ Technical task on Linux Given by XenonStack
 * internsctl --version  
 * internsctl --help
 * man internsctl
-![Screenshot (5)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/e265aa23-38c2-492a-8af2-073375eecbd9)
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/0c328e5d-246e-4509-a25e-9dc52d16430e)
 
-![Screenshot (6)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/044ad953-06b9-40c7-ba74-ef65164b730b)
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/15d0f214-2f79-49ec-a854-0c54324d44a7)
+
 
 ## Section B
 
 ### Part1 | Level Easy
 * internsctl cpu getinfo
 * internsctl memory getinfo
-![Screenshot (7)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/0f5c72a5-7ba1-4759-b4f8-40c92e227bf4)
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/d408493a-7c1c-4fdd-92cf-433269f76bc7)
 
-![Screenshot (8)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/c618e36b-d4a5-4ec3-a2ab-1e8d2bcf56c9)
+
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/428110ba-b831-440c-a133-1902d70e8179)
+
 
 ### Part2 | Level Intermediate
 * internsctl user create <username>
 * internsctl user list
 * internsctl user list --sudo-only
-  ![Screenshot (9)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/c7758692-56ef-457a-91e4-d77cb2eccf7c)
-![Screenshot (10)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/b88cd1e7-bf75-4e19-8dfc-2866388dcc32)
-![Screenshot (11)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/cf6be907-86c8-4aa5-b754-5aa20c394003)
+ ![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/171e5dae-8955-407b-8ff9-7295ef7193ce)
+
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/b87db34d-2b91-4cab-b242-10db579dc549)
+
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/05dd6cf2-2e6a-4e1b-983f-8d20739dc0b7)
 
 ### Part3 | Advanced Level
 * internsctl file getinfo <file-name>
@@ -34,7 +39,9 @@ Technical task on Linux Given by XenonStack
   * --owner, o print file owner
   * --last-modified, m
 
-![Screenshot (12)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/865287a6-e57b-4c3b-9cd1-7a9288d04efd)
-![Screenshot (13)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/2fee5dde-43b7-45dd-9fdd-d3cea9132491)
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/c1ac5992-60d0-4ebc-9227-e19d1096c22b)
+
+![image](https://github.com/logan-git-art/linux-Xenonstack-task-/assets/84459081/95210c96-45bd-4b27-807d-bb07959dbf63)
+
 
 
